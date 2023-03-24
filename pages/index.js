@@ -16,7 +16,7 @@ export default function Home() {
           Get going by editing <code>pages/index.js</code>
         </p>
       </main>
-
+      <Stopwatch />
       <Footer />
     </div>
   )
